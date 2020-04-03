@@ -20,4 +20,5 @@ This TinyPCR machine does not have a heated lid and mineral oil is required to p
 
 ## Efficiency:
 ![image](https://github.com/dr-data/TinyPCR/blob/master/Comparison.jpg?raw=true)
+
 Comparison of a commercial PCR machine (Thermo SPRT001) with the PocketPCR show similar results. The PocketPCR with its small thermal mass heat-block finished the 30 cycles for the bacterial 16s rDNA amplification faster than the commercial machine.
